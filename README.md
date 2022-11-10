@@ -1,5 +1,6 @@
-### Hi there 👋
-qualquer coisa
+### Hello, Raql here.
+
+I'm a Science Computer student from Brazil
 
 <!--
 **raqs-bot/raqs-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
