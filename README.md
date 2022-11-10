@@ -33,5 +33,5 @@ Feel free to browse through my work and learn more about some projects posted in
 
 >Contact me:
 
->![Gmail(mailto:rrbcostaa@gmail.com)](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+>![Gmail(rrbcostaa@gmail.com)](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
