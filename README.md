@@ -13,8 +13,25 @@ Feel free to browse through my work and learn more about some projects posted in
 ## How to reach me: 
 
 > My socials:
-> 
->![Figma()](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
->![Notion]https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white
->Canva (https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+
+>![Instagram()](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+>![Goodreads()](https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white)
+>![LinkedIn()](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+>You can also find me on:
+
+>![Canva()](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+>![Pinterest()](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)
+>![MyAnimeList()](https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white)
+
+
+> Offices:
+
+>![Figma()](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+>![Notion()](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+>![Codepen()](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
+
+>Contact me:
+
+>![Gmail()](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
