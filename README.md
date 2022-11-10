@@ -14,7 +14,7 @@ Feel free to browse through my work and learn more about some projects posted in
 
 > My socials:
 
->![Instagram(https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
+>![Instagram()](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 >![Goodreads(https://www.goodreads.com/user/show/112164032-raquel)](https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white)
 >![Linkedin(https://www.linkedin.com/in/raquel-rigoni-de-brito-costa-a06593219/)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
