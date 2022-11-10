@@ -10,7 +10,7 @@ Feel free to browse through my work and learn more about some projects posted in
 - 🤔 I’m looking for help with about anything related to new programming languages.
 - 😄 Pronouns: she/her
 
-## How to reach me: 
+<!-- ## How to reach me: 
 
 > My socials:
 
@@ -33,5 +33,5 @@ Feel free to browse through my work and learn more about some projects posted in
 
 >Contact me:
 
->![Gmail(rrbcostaa@gmail.com)](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+>![Gmail(rrbcostaa@gmail.com)](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) --!>
 
