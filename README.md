@@ -1,5 +1,9 @@
 ### Hello, Raql here.
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=blue&size=20&center=true&vCenter=true&width=600&height=100&lines=Raquel+Rigoni+de+Brito+Costa;Computer+Science+Student;Active+Learner/Researcher"></a>
+</p>
+
 I'm a Science Computer student from Brazil, with html/css/sql experience.
 When not at university or attending events related to school, I spend my time reading, playing video games, or inventing new ways to edit my portfolio website!
 Feel free to browse through my work and learn more about some projects posted in here!!
@@ -10,7 +14,11 @@ Feel free to browse through my work and learn more about some projects posted in
 - 🤔 I’m looking for help with about anything related to new programming languages.
 - 😄 Pronouns: she/her
 
-## How to reach me: 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"><b> Skills</b> <br>
+
+
 
 #### My socials:
 
