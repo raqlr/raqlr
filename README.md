@@ -43,7 +43,7 @@ Feel free to browse through my work and learn more about some projects posted in
 <!-- >![Gmail(rrbcostaa@gmail.com)](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) --!>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h2><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"><b> Contact Me:</b>
+<h2><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="70"><b>Contact Me:</b>
 <br></h2>
 <div align='left'>
 
