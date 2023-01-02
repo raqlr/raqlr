@@ -1,7 +1,7 @@
 ### Hello, Raql here!
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=blue&size=20&center=true&vCenter=true&width=600&height=100&lines=Raquel+Rigoni+de+Brito+Costa;Computer+Science+Student;Active+Learner/Researcher"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=blue&size=20&center=true&vCenter=true&width=600&height=100&lines=Hello;Raquel+Rigoni,+here;Computer+Science+Student;Active+Learner/Researcher"></a>
 </p>
 
 I'm a Science Computer student from Brazil, with html/css/sql experience.
