@@ -24,7 +24,7 @@ Feel free to browse through my work and learn more about some projects posted in
 #### My socials:
 
 >[![Goodreads](https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white)](https://www.goodreads.com/user/show/112164032-raquel)
->[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raquel-rigoni-de-brito-costa-a06593219/)
+>[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raql)
 
 #### You can also find me on:
 
@@ -50,7 +50,7 @@ Feel free to browse through my work and learn more about some projects posted in
 <img src="https://img.shields.io/badge/gmail:  mail me-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://www.linkedin.com/in/raquel-rigoni-de-brito-costa-a06593219/" target="_blank">
+<a href="https://www.linkedin.com/in/raql" target="_blank">
 <img src="https://img.shields.io/badge/linkedin: Link in-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 
