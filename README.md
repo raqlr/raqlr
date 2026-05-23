@@ -55,7 +55,7 @@ Feel free to browse through my work and learn more about some projects posted in
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2>
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWFxYWg0Mms5cWdmZzkyeGR3NnJ1cGMxc2N3Z3hieXVzanRnbGhwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SDGsHD23bp5C0HSNfQ/giphy.gif" width ="25">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Zms3czg4Z2txcTY5eGsyczR3ODd3dWFsaTlpd2FxcXJ5bGJneTBwbSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/f8h8oEShbB1YuagU6i/giphy.gif" width ="35">
   Contact Me:
 </h2>
 
