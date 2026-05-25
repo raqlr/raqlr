@@ -7,12 +7,7 @@
 I'm a Science Computer student from Brazil, with html/css/sql experience.
 When not at university or attending events related to school, I spend my time reading, playing video games, or inventing new ways to edit my portfolio website!
 Feel free to browse through my work and learn more about some projects posted in here!!
-<--
-- I’m currently learning JavaScript.
-- Portfolio [link](https://raqs-bot.github.io/Portfolio/).
-- I'm currently looking for remote internship, here's my [resume](https://raqs-bot.github.io/Portfolio/imgs/resume.pdf).
-- My pronouns: she/her
--->
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2>
